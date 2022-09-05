@@ -1,0 +1,1 @@
+export const oi = require('@angular/core');
